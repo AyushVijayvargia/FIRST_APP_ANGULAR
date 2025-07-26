@@ -11,7 +11,7 @@ export class Counter {
 
   increment()
   {
-    this.count++;
+    this.count++;//increase
   }
 
 }

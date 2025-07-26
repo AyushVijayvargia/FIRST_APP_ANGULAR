@@ -13,5 +13,8 @@ export class Counter {
   {
     this.count++;//increase
   }
-
+decrement()
+  {
+    this.count--;//decrease
+  }
 }
